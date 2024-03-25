@@ -1,0 +1,867 @@
+
+BATEEL 1
+
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:13.000]  What do we have? 1,600, 8 pieces. Can you show me?
+[00:13.000 --> 00:15.000]  8 pieces of access to one.
+[00:15.000 --> 00:17.000]  8 pieces?
+[00:17.000 --> 00:19.000]  We use it.
+[00:19.000 --> 00:21.000]  Not just no?
+[00:21.000 --> 00:25.000]  No, we use it.
+[00:25.000 --> 00:27.000]  No, we use it.
+[00:27.000 --> 00:30.000]  We need to confirm the quotation before sending it.
+[00:30.000 --> 00:32.000]  All?
+[00:32.000 --> 00:34.000]  Cassandra.
+[00:34.000 --> 00:36.000]  Before we had this.
+[00:36.000 --> 00:38.000]  This we have 500.
+[00:38.000 --> 00:40.000]  That's small.
+[00:40.000 --> 00:42.000]  No, no.
+[00:42.000 --> 00:44.000]  Can you see that?
+[00:44.000 --> 00:46.000]  Bottom, there is no bottom.
+[00:46.000 --> 00:48.000]  See, see.
+[00:48.000 --> 00:50.000]  We have, we have.
+[00:50.000 --> 00:52.000]  Nabura, we use stuff.
+[00:52.000 --> 00:54.000]  We use stuff.
+[00:54.000 --> 00:56.000]  8 pieces.
+[00:56.000 --> 00:58.000]  8 pieces, access small.
+[00:58.000 --> 01:00.000]  She addressed me.
+[01:00.000 --> 01:02.000]  Even small.
+[01:02.000 --> 01:04.000]  Even small.
+[01:04.000 --> 01:06.000]  Even small.
+[01:06.000 --> 01:08.000]  Even small.
+[01:08.000 --> 01:10.000]  Even onyx.
+[01:10.000 --> 01:12.000]  Even bacon.
+[01:12.000 --> 01:14.000]  Even bacon.
+[01:15.000 --> 01:18.000]  What else do we need to discuss here now?
+[01:22.000 --> 01:26.000]  What was the thing back when you went to the clients?
+[01:26.000 --> 01:28.000]  White box, number one.
+[01:28.000 --> 01:32.000]  Number two, crescent is nice but customization is shit.
+[01:32.000 --> 01:35.000]  Number three, why don't you have something new?
+[01:35.000 --> 01:39.000]  Four prices, one.
+[01:39.000 --> 01:41.000]  Let's talk each other about the price.
+[01:41.000 --> 01:43.000]  Yes.
+[01:43.000 --> 01:49.000]  So while we are writing Janet, Ramon you can check the stock so you can come back to the client.
+[01:49.000 --> 01:51.000]  Yes.
+[01:51.000 --> 01:55.000]  Check all the extra small and 8 piece Cassandra.
+[01:55.000 --> 01:57.000]  Yes.
+[01:57.000 --> 01:59.000]  Yeah, what else?
+[02:01.000 --> 02:03.000]  The prices.
+[02:03.000 --> 02:05.000]  Customization.
+[02:05.000 --> 02:07.000]  Oh, that's it.
+[02:07.000 --> 02:10.000]  Who was doing the best customization of the chocolates?
+[02:10.000 --> 02:13.000]  This adds to the rough chocolates a lot.
+[02:13.000 --> 02:15.000]  Yes, if we can.
+[02:15.000 --> 02:17.000]  Especially for Ramadan.
+[02:17.000 --> 02:20.000]  Many customers are asking, we need ideas.
+[02:20.000 --> 02:21.000]  Yes.
+[02:21.000 --> 02:22.000]  Something new.
+[02:22.000 --> 02:25.000]  Different than dates and chocolates.
+[02:25.000 --> 02:30.000]  They can't find space for any gift we created.
+[02:30.000 --> 02:32.000]  I think Batil did it.
+[02:32.000 --> 02:34.000]  Even Batil did it.
+[02:34.000 --> 02:36.000]  Even Batil.
+[02:36.000 --> 02:38.000]  How?
+[02:39.000 --> 02:44.000]  Because it's trending here, they want a gift item beside even.
+[02:44.000 --> 02:48.000]  Or what we could create, to be honest.
+[02:48.000 --> 02:50.000]  This could be potential.
+[02:50.000 --> 02:58.000]  You know, if you buy one box of carton, you could add the metal plate but purely.
+[02:58.000 --> 03:04.000]  Almost like a ruler, when you buy the ruler, nice metal ruler with Ramadan calling message.
+[03:04.000 --> 03:06.000]  If you can keep one of these.
+[03:06.000 --> 03:08.000]  For the book.
+[03:08.000 --> 03:10.000]  Yes, the bookmark.
+[03:10.000 --> 03:14.000]  You can use that as a bookmark, you can put it on your desk, you can keep it.
+[03:14.000 --> 03:15.000]  It's enough.
+[03:15.000 --> 03:17.000]  It's simple.
+[03:17.000 --> 03:19.000]  They will like it simple.
+[03:19.000 --> 03:21.000]  You don't ask for more.
+[03:21.000 --> 03:23.000]  You know that.
+[03:25.000 --> 03:29.000]  Okay, but I have something different.
+[03:29.000 --> 03:31.000]  I think it looks nice.
+[03:31.000 --> 03:35.000]  Since we are thinking about to add something tangible.
+[03:35.000 --> 03:43.000]  So, Ramadan calling text or Ramadan calling statement with the design it will be in Ramadan,
+[03:43.000 --> 03:49.000]  it can be crafted as a metal to be removed and placed on the table.
+[03:49.000 --> 03:53.000]  So here we will place Ramadan calling, for example, right?
+[03:53.000 --> 03:59.000]  We can have the same one in light metal to be placed inside the carton,
+[03:59.000 --> 04:03.000]  which the customer can remove and place on his table.
+[04:04.000 --> 04:10.000]  So the customer or the employee will have dates and souvenirs.
+[04:10.000 --> 04:12.000]  It's really nice.
+[04:12.000 --> 04:14.000]  That's it.
+[04:14.000 --> 04:17.000]  We don't ask for this one.
+[04:17.000 --> 04:21.000]  We must keep something special.
+[04:21.000 --> 04:23.000]  For what?
+[04:23.000 --> 04:25.000]  For the hamper with the house.
+[04:25.000 --> 04:27.000]  Yeah, the same.
+[04:27.000 --> 04:31.000]  And that sort of tag can be used.
+[04:31.000 --> 04:33.000]  And can be branded.
+[04:33.000 --> 04:35.000]  Can be branded.
+[04:35.000 --> 04:37.000]  Okay, that's it.
+[04:37.000 --> 04:42.000]  Used for the trays, hampers,
+[04:45.000 --> 04:51.000]  and even can be added to the ribbon for the non-Ramadan Kareem boxes,
+[04:51.000 --> 04:53.000]  such as green pattern.
+[04:53.000 --> 04:55.000]  Or, yeah, that's it.
+[04:55.000 --> 04:57.000]  Yes.
+[05:10.000 --> 05:14.000]  But the customer can remove and place on the table.
+[05:14.000 --> 05:16.000]  I would keep it in my...
+[05:16.000 --> 05:19.000]  And it can be used for any season.
+[05:19.000 --> 05:23.000]  We can do it for Ramadan, we can do it for Eid, for National Day.
+[05:23.000 --> 05:25.000]  So you change that sentence.
+[05:25.000 --> 05:27.000]  And becoming branded.
+[05:27.000 --> 05:29.000]  Yeah.
+[05:33.000 --> 05:36.000]  But we win some awards.
+[05:43.000 --> 05:47.000]  It seems those guys, like Assam or something, enter here,
+[05:47.000 --> 05:51.000]  so that there's awards for material, let's buy.
+[05:51.000 --> 05:55.000]  The problem is they start buying awards before they start to...
+[05:55.000 --> 05:57.000]  And who use it?
+[05:57.000 --> 05:59.000]  Very small.
+[05:59.000 --> 06:01.000]  We don't have small boxes like this.
+[06:01.000 --> 06:05.000]  And who use those boxes before to get an award the best?
+[06:05.000 --> 06:07.000]  Ma'am, we work for Segeira.
+[06:07.000 --> 06:09.000]  You work for Segeira?
+[06:09.000 --> 06:11.000]  But so much money he's earning, not Segeira.
+[06:11.000 --> 06:13.000]  Yes.
+[06:13.000 --> 06:15.000]  No, they should.
+[06:15.000 --> 06:17.000]  You won it.
+[06:17.000 --> 06:21.000]  He got a good contract and a good commission from...
+[06:21.000 --> 06:23.000]  Paris?
+[06:23.000 --> 06:25.000]  No, no, no, from...
+[06:25.000 --> 06:27.000]  This chocolate...
+[06:27.000 --> 06:29.000]  Laddera.
+[06:29.000 --> 06:31.000]  Who should stop?
+[06:31.000 --> 06:33.000]  Who should stop?
+[06:33.000 --> 06:37.000]  If they would do it, he got a great commission.
+[06:37.000 --> 06:39.000]  You will not do it.
+[06:39.000 --> 06:41.000]  Switzerland will not do it.
+[06:41.000 --> 06:43.000]  But maybe they give him damage.
+[06:43.000 --> 06:45.000]  No, no.
+[06:45.000 --> 06:47.000]  The chocolate...
+[06:47.000 --> 06:49.000]  All the chocolates are the same.
+[06:49.000 --> 06:51.000]  You can buy it now.
+[06:51.000 --> 06:53.000]  You know how we are buying chocolates for our chocolate?
+[06:53.000 --> 06:57.000]  We are buying from Laddera.
+[06:57.000 --> 07:01.000]  In the chocolate dot, same like what you have.
+[07:01.000 --> 07:05.000]  We are melting and putting to the chocolate bar.
+[07:05.000 --> 07:07.000]  Hours.
+[07:07.000 --> 07:09.000]  It's not hours.
+[07:09.000 --> 07:11.000]  We didn't do anything.
+[07:11.000 --> 07:13.000]  Homemade chocolate.
+[07:13.000 --> 07:15.000]  Homemade chocolate.
+[07:15.000 --> 07:17.000]  Homemade chocolate.
+[07:17.000 --> 07:19.000]  No, but you said you have my own recipe, isn't it?
+[07:19.000 --> 07:21.000]  Okay, okay, okay.
+[07:21.000 --> 07:23.000]  It also means you have to make five cookies.
+[07:23.000 --> 07:25.000]  That's it.
+[07:25.000 --> 07:27.000]  No better without those five cookies.
+[07:27.000 --> 07:33.000]  I am thinking that time when Bernadir and Mehmura and Wojcik
+[07:33.000 --> 07:35.000]  trying the cookies in front of him.
+[07:35.000 --> 07:37.000]  Oh.
+[07:37.000 --> 07:39.000]  Oh.
+[07:39.000 --> 07:41.000]  Why does it have raspberry?
+[07:41.000 --> 07:43.000]  Oh, you want to throw it.
+[07:43.000 --> 07:47.000]  But you should act like, oh, it's perfect.
+[07:47.000 --> 07:49.000]  It's out also, by the way.
+[07:49.000 --> 07:51.000]  Regal out.
+[07:51.000 --> 07:53.000]  After that, out.
+[07:53.000 --> 07:55.000]  Out, they release out.
+[07:55.000 --> 07:57.000]  Only what we say is back home.
+[07:57.000 --> 07:59.000]  No, why have they released out?
+[07:59.000 --> 08:01.000]  They are not selling.
+[08:01.000 --> 08:03.000]  No, but wait.
+[08:03.000 --> 08:05.000]  What about that?
+[08:05.000 --> 08:07.000]  Any further feedback? Price point.
+[08:07.000 --> 08:09.000]  It was selling with our medium?
+[08:09.000 --> 08:11.000]  Yes.
+[08:11.000 --> 08:13.000]  240, 200 net.
+[08:13.000 --> 08:15.000]  Yeah, 200 net.
+[08:15.000 --> 08:17.000]  And it was built to have the oil,
+[08:17.000 --> 08:19.000]  but we took about the same price.
+[08:19.000 --> 08:21.000]  This side, the feedback, that it was expensive.
+[08:21.000 --> 08:23.000]  Yes.
+[08:23.000 --> 08:25.000]  Really?
+[08:25.000 --> 08:27.000]  Because they can't claim that only.
+[08:27.000 --> 08:29.000]  Yeah.
+[08:29.000 --> 08:31.000]  This is that point.
+[08:31.000 --> 08:33.000]  It's large too much.
+[08:33.000 --> 08:35.000]  Nobody asked about it.
+[08:35.000 --> 08:37.000]  So why do we need it?
+[08:37.000 --> 08:39.000]  The extension only.
+[08:39.000 --> 08:41.000]  From my side, no need.
+[08:41.000 --> 08:43.000]  Because no need.
+[08:43.000 --> 08:45.000]  No, let's have limited quantity.
+[08:45.000 --> 08:47.000]  One design only, limited quantity.
+[08:47.000 --> 08:49.000]  It's large, limited, only one quantity.
+[08:49.000 --> 08:51.000]  And bring a lot from last.
+[08:51.000 --> 08:53.000]  One design.
+[08:53.000 --> 08:55.000]  Large and medium.
+[08:55.000 --> 08:57.000]  Yeah.
+[08:57.000 --> 08:59.000]  By the way, we sell a lot of small sizes.
+[08:59.000 --> 09:01.000]  The small one, not the excess one.
+[09:01.000 --> 09:03.000]  The small from Alaska.
+[09:03.000 --> 09:05.000]  That's what I'm saying.
+[09:05.000 --> 09:07.000]  Why?
+[09:07.000 --> 09:09.000]  Because the recalls, they recalls.
+[09:09.000 --> 09:11.000]  That's palm a lot.
+[09:11.000 --> 09:13.000]  That's palm a lot.
+[09:13.000 --> 09:15.000]  Large, Ramadan, small.
+[09:15.000 --> 09:17.000]  This is that point.
+[09:17.000 --> 09:19.000]  This is that point.
+[09:19.000 --> 09:21.000]  Or we, I don't know,
+[09:21.000 --> 09:23.000]  but we are selling it.
+[09:23.000 --> 09:25.000]  Maybe we can have
+[09:25.000 --> 09:27.000]  this one right here.
+[09:27.000 --> 09:29.000]  Yeah.
+[09:29.000 --> 09:31.000]  One thing,
+[09:31.000 --> 09:33.000]  but this
+[09:33.000 --> 09:35.000]  case, it's happening
+[09:35.000 --> 09:37.000]  with many customers this season.
+[09:37.000 --> 09:39.000]  Customers, they are
+[09:39.000 --> 09:41.000]  complaining about the bag sizes.
+[09:41.000 --> 09:43.000]  Yes.
+[09:43.000 --> 09:45.000]  Our bag sizes, it's not acceptable
+[09:45.000 --> 09:47.000]  with the boxes.
+[09:47.000 --> 09:49.000]  If you see, first thing,
+[09:49.000 --> 09:51.000]  customers, they want the box to be
+[09:51.000 --> 09:53.000]  flat in the back.
+[09:53.000 --> 09:55.000]  They want it like this.
+[09:55.000 --> 09:57.000]  Everyone now
+[09:57.000 --> 09:59.000]  making the box like this.
+[09:59.000 --> 10:01.000]  The box should be...
+[10:05.000 --> 10:07.000]  The box should be inside the bag.
+[10:07.000 --> 10:09.000]  Second thing, the same size
+[10:09.000 --> 10:11.000]  of this, the medium size. If you put in the medium
+[10:11.000 --> 10:13.000]  bag, it's up to you.
+[10:13.000 --> 10:15.000]  If you put in the large bag, the bag is very large
+[10:15.000 --> 10:17.000]  for the medium.
+[10:17.000 --> 10:19.000]  Sizes of the box
+[10:19.000 --> 10:21.000]  can be reviewed.
+[10:21.000 --> 10:23.000]  To be flat.
+[10:23.000 --> 10:25.000]  No need to have
+[10:25.000 --> 10:27.000]  a bag like this, hard.
+[10:27.000 --> 10:29.000]  To put the large box on the heavy
+[10:29.000 --> 10:31.000]  box.
+[10:31.000 --> 10:33.000]  25 cm
+[10:33.000 --> 10:35.000]  flat.
+[10:35.000 --> 10:37.000]  It's flat.
+[10:37.000 --> 10:39.000]  It's a gift.
+[10:39.000 --> 10:41.000]  Gift, flat, but much more.
+[10:43.000 --> 10:45.000]  The quality also
+[10:45.000 --> 10:47.000]  is flat.
+[10:47.000 --> 10:49.000]  It's tough to be on.
+[10:49.000 --> 10:51.000]  But hard, this is.
+[10:51.000 --> 10:53.000]  It's a matter of quality.
+[10:53.000 --> 10:55.000]  Okay.
+[10:55.000 --> 10:57.000]  Do you have it? What you have?
+[10:57.000 --> 10:59.000]  All 8 pieces, all
+[10:59.000 --> 11:01.000]  exes more.
+[11:01.000 --> 11:03.000]  Alaska,
+[11:03.000 --> 11:05.000]  Alaska,
+[11:05.000 --> 11:07.000]  Alaskan,
+[11:07.000 --> 11:23.000]  Alaskan, Alaskan,
+[11:23.000 --> 11:25.000]  U.S. $1,600
+[11:25.000 --> 11:27.000]  How old are you?
+[11:27.000 --> 11:29.000]  How old are you?
+[11:29.000 --> 11:31.000]  I'm 35
+[11:31.000 --> 11:33.000]  How old are you?
+[11:33.000 --> 11:35.000]  How old are you?
+[11:35.000 --> 11:37.000]  28
+[11:37.000 --> 11:39.000]  Masha'Allah
+[11:39.000 --> 11:41.000]  Looks like 16
+[11:41.000 --> 11:43.000]  28
+[11:43.000 --> 11:45.000]  How old are you?
+[11:45.000 --> 11:47.000]  5
+[11:47.000 --> 11:49.000]  45
+[11:49.000 --> 11:51.000]  Thank you
+[11:51.000 --> 11:53.000]  How old are you?
+[11:53.000 --> 11:55.000]  38
+[11:55.000 --> 11:57.000]  Good
+[11:57.000 --> 11:59.000]  39 this year?
+[11:59.000 --> 12:01.000]  No
+[12:01.000 --> 12:03.000]  This year?
+[12:03.000 --> 12:05.000]  So 37
+[12:05.000 --> 12:07.000]  No
+[12:07.000 --> 12:09.000]  I can't 38
+[12:09.000 --> 12:11.000]  I'm sorry
+[12:11.000 --> 12:13.000]  I don't know
+[12:13.000 --> 12:15.000]  I don't know
+[12:15.000 --> 12:17.000]  I don't know
+[12:17.000 --> 12:19.000]  I don't know
+[12:19.000 --> 12:21.000]  I think it's because of the calcindra
+[12:21.000 --> 12:23.000]  I think it's because of the calcindra
+[12:23.000 --> 12:25.000]  I think it's because of the calcindra
+[12:25.000 --> 12:27.000]  2011
+[12:27.000 --> 12:29.000]  25
+[12:29.000 --> 12:31.000]  25
+[12:31.000 --> 12:33.000]  Something like that
+[12:33.000 --> 12:35.000]  You can imagine
+[12:35.000 --> 12:37.000]  You can imagine
+[12:41.000 --> 12:43.000]  But you lost weight?
+[12:43.000 --> 12:45.000]  No
+[12:45.000 --> 12:47.000]  Because of what?
+[12:47.000 --> 12:49.000]  Exercise?
+[12:49.000 --> 12:51.000]  Two things
+[12:51.000 --> 12:53.000]  Ramadan
+[12:53.000 --> 12:55.000]  I'm waiting for Ramadan to lose weight
+[12:55.000 --> 12:57.000]  I'm waiting for Ramadan to lose weight
+[12:57.000 --> 12:59.000]  Muscles?
+[12:59.000 --> 13:01.000]  Muscles and cardio
+[13:01.000 --> 13:03.000]  What?
+[13:03.000 --> 13:05.000]  I don't like to gain more weight
+[13:05.000 --> 13:07.000]  It's not good for me also
+[13:07.000 --> 13:09.000]  With my height
+[13:17.000 --> 13:19.000]  Any other feedback?
+[13:19.000 --> 13:21.000]  So from the retail
+[13:21.000 --> 13:23.000]  What kind of feedback you got?
+[13:23.000 --> 13:25.000]  What kind of feedback you got?
+[13:25.000 --> 13:27.000]  Usually it's all about
+[13:27.000 --> 13:29.000]  Stock availability
+[13:29.000 --> 13:31.000]  We were following about the stock availability
+[13:31.000 --> 13:33.000]  Stock availability
+[13:33.000 --> 13:35.000]  The customer comes and say what they want
+[13:35.000 --> 13:37.000]  300 boxes
+[13:37.000 --> 13:39.000]  How much we have
+[13:39.000 --> 13:41.000]  And the system no
+[13:41.000 --> 13:43.000]  And the system no
+[13:43.000 --> 13:45.000]  Yeah
+[13:45.000 --> 13:47.000]  Yeah, but we have to ask if there is any reservation
+[13:47.000 --> 13:49.000]  Yeah, but
+[13:49.000 --> 13:51.000]  Yeah, but
+[13:51.000 --> 13:53.000]  Yeah, but
+[13:53.000 --> 13:55.000]  Forget it
+[13:55.000 --> 13:57.000]  If tomorrow somebody ask you
+[13:57.000 --> 13:59.000]  For what? Example of this
+[13:59.000 --> 14:01.000]  Let's say
+[14:01.000 --> 14:03.000]  Noura
+[14:03.000 --> 14:05.000]  We need let's say 50 pieces
+[14:05.000 --> 14:07.000]  Yeah, you have it
+[14:07.000 --> 14:09.000]  Without asking you have it
+[14:09.000 --> 14:11.000]  Yeah
+[14:11.000 --> 14:13.000]  What?
+[14:13.000 --> 14:15.000]  What?
+[14:15.000 --> 14:17.000]  Almost felt out
+[14:17.000 --> 14:19.000]  Noura
+[14:19.000 --> 14:21.000]  This is the paint
+[14:21.000 --> 14:23.000]  They put it here
+[14:23.000 --> 14:25.000]  And google while searching
+[14:25.000 --> 14:27.000]  But it's automatic
+[14:27.000 --> 14:29.000]  Yeah
+[14:29.000 --> 14:31.000]  Yeah
+[14:31.000 --> 14:33.000]  What else?
+[14:35.000 --> 14:37.000]  Think back from client
+[14:37.000 --> 14:39.000]  Regarding the prices
+[14:39.000 --> 14:41.000]  Are we giving the distance?
+[14:41.000 --> 14:43.000]  Yeah
+[14:43.000 --> 14:45.000]  As far as distance
+[14:45.000 --> 14:47.000]  Yeah
+[14:47.000 --> 14:49.000]  But we give you more for alone
+[14:49.000 --> 14:51.000]  Push alone
+[14:51.000 --> 14:53.000]  But you approve for everything
+[14:53.000 --> 14:55.000]  Yeah, I approve
+[14:55.000 --> 14:57.000]  This is me, even I approve
+[14:57.000 --> 14:59.000]  Like I approve for 100 boxes
+[14:59.000 --> 15:01.000]  So one one
+[15:01.000 --> 15:03.000]  30 percent
+[15:03.000 --> 15:05.000]  Yeah, good, no problem
+[15:05.000 --> 15:07.000]  Because you want to push
+[15:07.000 --> 15:09.000]  So what we have left over?
+[15:09.000 --> 15:11.000]  100 boxes
+[15:11.000 --> 15:13.000]  1000
+[15:13.000 --> 15:15.000]  1000 boxes
+[15:15.000 --> 15:17.000]  In the warehouse
+[15:17.000 --> 15:19.000]  No, listen
+[15:19.000 --> 15:21.000]  Only one and few bare
+[15:21.000 --> 15:23.000]  So 1000 boxes across all
+[15:23.000 --> 15:25.000]  Boutiques
+[15:25.000 --> 15:27.000]  No, I think more
+[15:27.000 --> 15:29.000]  Should we bring it to production?
+[15:31.000 --> 15:33.000]  Let's remove
+[15:33.000 --> 15:35.000]  But let's say how many boxes
+[15:35.000 --> 15:37.000]  You have in your boutique in Jadar
+[15:37.000 --> 15:39.000]  Both boutiques
+[15:39.000 --> 15:41.000]  Maximum 40 pieces
+[15:41.000 --> 15:43.000]  It's just as
+[15:43.000 --> 15:45.000]  More a kit
+[15:45.000 --> 15:47.000]  By prestige
+[15:47.000 --> 15:49.000]  No, no, no
+[15:49.000 --> 15:51.000]  We take half
+[15:51.000 --> 15:53.000]  So you have 80 only?
+[15:53.000 --> 15:55.000]  No, no, 20, 20
+[15:55.000 --> 15:57.000]  Both boutiques
+[15:57.000 --> 15:59.000]  No way
+[15:59.000 --> 16:01.000]  No way
+[16:01.000 --> 16:03.000]  I'm saying about all these jeans
+[16:03.000 --> 16:05.000]  We have more than
+[16:05.000 --> 16:07.000]  Most of it present
+[16:07.000 --> 16:09.000]  Forget present or not present
+[16:09.000 --> 16:11.000]  How many in total?
+[16:11.000 --> 16:13.000]  But maybe 200
+[16:13.000 --> 16:15.000]  Less
+[16:15.000 --> 16:17.000]  Good
+[16:17.000 --> 16:19.000]  So 100 boxes per boutique
+[16:19.000 --> 16:21.000]  So you have
+[16:21.000 --> 16:23.000]  You have 1000
+[16:23.000 --> 16:25.000]  You have less in the zone
+[16:25.000 --> 16:27.000]  You have nothing in the zone
+[16:27.000 --> 16:29.000]  So let's see
+[16:29.000 --> 16:31.000]  You have 1000
+[16:31.000 --> 16:33.000]  Yeah, warehouse
+[16:33.000 --> 16:35.000]  Warehouse
+[16:35.000 --> 16:37.000]  Yeah
+[16:37.000 --> 16:39.000]  Inserts you don't have anymore
+[16:41.000 --> 16:43.000]  How many boxes you are hiding
+[16:43.000 --> 16:45.000]  In Kapar
+[16:45.000 --> 16:47.000]  Nawa
+[16:47.000 --> 16:49.000]  Mute
+[16:51.000 --> 16:53.000]  Inserts no more
+[16:53.000 --> 16:55.000]  Nothing?
+[16:55.000 --> 16:57.000]  In Riyadh?
+[16:57.000 --> 16:59.000]  So when can we
+[16:59.000 --> 17:01.000]  Receive the overview of this?
+[17:01.000 --> 17:03.000]  Forget Michael
+[17:03.000 --> 17:05.000]  No need to ask
+[17:05.000 --> 17:07.000]  What you mean?
+[17:07.000 --> 17:09.000]  We need to get this information
+[17:09.000 --> 17:11.000]  Within today or tomorrow
+[17:11.000 --> 17:13.000]  Let's get this
+[17:13.000 --> 17:15.000]  Let's push
+[17:15.000 --> 17:17.000]  All the SGA plus inserts
+[17:17.000 --> 17:19.000]  From the
+[17:19.000 --> 17:21.000]  All boutiques
+[17:21.000 --> 17:23.000]  And from the
+[17:23.000 --> 17:25.000]  Warehouse and from the Kapar
+[17:25.000 --> 17:27.000]  We still have
+[17:27.000 --> 17:29.000]  Yeah
+[17:29.000 --> 17:31.000]  How many?
+[17:31.000 --> 17:33.000]  More
+[17:33.000 --> 17:35.000]  How much money you ended up spending?
+[17:35.000 --> 17:37.000]  Same as last year?
+[17:37.000 --> 17:39.000]  Around 700
+[17:39.000 --> 17:41.000]  Same like last year?
+[17:41.000 --> 17:43.000]  More quantity
+[17:43.000 --> 17:45.000]  More
+[17:45.000 --> 17:47.000]  25%?
+[17:47.000 --> 17:49.000]  25%?
+[17:49.000 --> 17:51.000]  But to be honest
+[17:51.000 --> 17:53.000]  Let's be realistic
+[17:53.000 --> 17:55.000]  The inserts are deserved 25%
+[17:55.000 --> 17:57.000]  Yes, they deserve
+[17:57.000 --> 17:59.000]  And they don't want branding
+[17:59.000 --> 18:01.000]  And also now we are not offering any branding
+[18:01.000 --> 18:03.000]  After the agreement
+[18:03.000 --> 18:05.000]  25% only
+[18:05.000 --> 18:07.000]  And also whatever we don't have
+[18:07.000 --> 18:09.000]  They give option the agrarian
+[18:09.000 --> 18:11.000]  This is a lot of present
+[18:11.000 --> 18:13.000]  Present?
+[18:13.000 --> 18:15.000]  A lot of present
+[18:15.000 --> 18:17.000]  The pink one?
+[18:17.000 --> 18:19.000]  More than 500
+[18:19.000 --> 18:21.000]  More than 500 pink
+[18:21.000 --> 18:23.000]  It's for him
+[18:23.000 --> 18:25.000]  Any beer?
+[18:25.000 --> 18:27.000]  No
+[18:27.000 --> 18:29.000]  But also to be honest you should play a little bit like a broker
+[18:29.000 --> 18:31.000]  You go to the guy
+[18:31.000 --> 18:33.000]  Today they called me one from Johar
+[18:33.000 --> 18:35.000]  In Jallat
+[18:35.000 --> 18:37.000]  I am in the meeting
+[18:37.000 --> 18:39.000]  The guy says
+[18:39.000 --> 18:41.000]  The guy at the one meeting he said
+[18:41.000 --> 18:43.000]  Wala you are the first retainer
+[18:43.000 --> 18:45.000]  And FNB
+[18:45.000 --> 18:47.000]  That we speak to
+[18:47.000 --> 18:49.000]  Good
+[18:49.000 --> 18:51.000]  And we are first
+[18:51.000 --> 18:53.000]  They already signed up
+[18:53.000 --> 18:55.000]  Then I said
+[18:55.000 --> 18:57.000]  So what do you suggest for my location
+[18:57.000 --> 18:59.000]  To be in the mall
+[18:59.000 --> 19:01.000]  This one
+[19:01.000 --> 19:03.000]  Why this one, why not this one
+[19:03.000 --> 19:05.000]  Or this one, or this one
+[19:05.000 --> 19:07.000]  I gave him this one, what about this
+[19:07.000 --> 19:09.000]  No, I only have this
+[19:09.000 --> 19:11.000]  You told me I am the first
+[19:11.000 --> 19:13.000]  You told me I am the first
+[19:13.000 --> 19:15.000]  But it's as per your size requirement
+[19:15.000 --> 19:17.000]  This one is
+[19:17.000 --> 19:19.000]  30 square meters more
+[19:19.000 --> 19:21.000]  I can survive with 30 square meters more
+[19:21.000 --> 19:23.000]  But he is playing what I said
+[19:23.000 --> 19:25.000]  He wants to
+[19:25.000 --> 19:27.000]  He will be small
+[19:27.000 --> 19:29.000]  So my team will not
+[19:29.000 --> 19:31.000]  No, the head is deep
+[19:31.000 --> 19:33.000]  No, Farhat
+[19:33.000 --> 19:35.000]  It will be good
+[19:35.000 --> 19:37.000]  What are you talking about
+[19:37.000 --> 19:39.000]  I know, next to the football station
+[19:39.000 --> 19:41.000]  No
+[19:41.000 --> 19:43.000]  It's closer
+[19:43.000 --> 19:45.000]  Not there
+[19:45.000 --> 19:47.000]  No
+[19:47.000 --> 19:49.000]  No
+[19:49.000 --> 19:51.000]  No, there is also
+[19:51.000 --> 19:53.000]  It's five minutes from Red Sea on the other side
+[19:53.000 --> 19:55.000]  They will go there
+[19:55.000 --> 19:57.000]  It's a premium mall
+[19:57.000 --> 19:59.000]  You don't have this in Jeddah
+[19:59.000 --> 20:01.000]  You don't have it in Saudi
+[20:01.000 --> 20:03.000]  The best mall in Saudi
+[20:03.000 --> 20:05.000]  Avenue
+[20:05.000 --> 20:07.000]  Number one
+[20:07.000 --> 20:09.000]  That is over there
+[20:09.000 --> 20:11.000]  Same
+[20:11.000 --> 20:13.000]  We need to be there
+[20:13.000 --> 20:15.000]  Forget Nakhil
+[20:15.000 --> 20:17.000]  Forget Nakhil
+[20:17.000 --> 20:19.000]  It's commercial
+[20:19.000 --> 20:21.000]  The park is beautiful
+[20:21.000 --> 20:23.000]  Yeah
+[20:23.000 --> 20:25.000]  There is a new awesome mall
+[20:25.000 --> 20:27.000]  For the same guys
+[20:27.000 --> 20:29.000]  I will share you
+[20:29.000 --> 20:31.000]  No, no
+[20:31.000 --> 20:33.000]  We don't want to share anything
+[20:35.000 --> 20:37.000]  What about
+[20:37.000 --> 20:39.000]  Avenue
+[20:39.000 --> 20:41.000]  We have location
+[20:41.000 --> 20:43.000]  Quickly
+[20:43.000 --> 20:45.000]  It's crazy
+[20:45.000 --> 20:47.000]  They will do it in 2020
+[20:47.000 --> 20:49.000]  You remember
+[20:49.000 --> 20:51.000]  We went to visit them
+[20:51.000 --> 20:53.000]  At the office before two years
+[20:53.000 --> 20:55.000]  Avenue
+[20:55.000 --> 20:57.000]  Full time, right
+[20:57.000 --> 20:59.000]  No
+[20:59.000 --> 21:01.000]  After time
+[21:01.000 --> 21:03.000]  It's canceled
+[21:03.000 --> 21:05.000]  No
+[21:05.000 --> 21:07.000]  No strategy
+[21:07.000 --> 21:09.000]  Avenue is no different
+[21:09.000 --> 21:11.000]  From Kuwait
+[21:11.000 --> 21:13.000]  Kuwait is different
+[21:13.000 --> 21:15.000]  They canceled
+[21:15.000 --> 21:17.000]  They canceled
+[21:17.000 --> 21:19.000]  They canceled
+[21:19.000 --> 21:21.000]  They will take it
+[21:21.000 --> 21:23.000]  And they will say it's paid
+[21:25.000 --> 21:27.000]  Nothing
+[21:27.000 --> 21:29.000]  But Russian guy is out
+[21:29.000 --> 21:31.000]  He is out
+[21:31.000 --> 21:33.000]  They will come
+[21:33.000 --> 21:35.000]  They will see you
+[21:35.000 --> 21:37.000]  See you in Russia
+[21:37.000 --> 21:39.000]  Anyways
+[21:39.000 --> 21:41.000]  Anything else
+[21:43.000 --> 21:45.000]  Logistic
+[21:45.000 --> 21:47.000]  You can watch this
+[21:49.000 --> 21:51.000]  Do you have this email from last year
+[21:55.000 --> 21:57.000]  One additional thing
+[21:57.000 --> 21:59.000]  It's not urgent, not critical
+[21:59.000 --> 22:01.000]  Before that
+[22:01.000 --> 22:03.000]  Marketing wise was fucked up
+[22:03.000 --> 22:05.000]  Yeah, the marketing
+[22:05.000 --> 22:07.000]  No
+[22:07.000 --> 22:09.000]  No
+[22:09.000 --> 22:11.000]  Communication
+[22:11.000 --> 22:13.000]  Even the whole leads
+[22:13.000 --> 22:15.000]  Zero leads
+[22:15.000 --> 22:17.000]  Stupidity
+[22:17.000 --> 22:19.000]  That they added the manner
+[22:19.000 --> 22:21.000]  In between all this shit
+[22:23.000 --> 22:25.000]  Again
+[22:25.000 --> 22:27.000]  Too late communication for everything
+[22:27.000 --> 22:29.000]  Crazy
+[22:29.000 --> 22:31.000]  We don't want
+[22:31.000 --> 22:33.000]  Something to be
+[22:33.000 --> 22:35.000]  For example
+[22:35.000 --> 22:37.000]  Like we talked before
+[22:37.000 --> 22:39.000]  Because next year
+[22:39.000 --> 22:41.000]  Funding day is near
+[22:41.000 --> 22:43.000]  To have one
+[22:43.000 --> 22:45.000]  We should have
+[22:45.000 --> 22:47.000]  Something for funding day
+[22:47.000 --> 22:49.000]  But to have something
+[22:49.000 --> 22:51.000]  Between both
+[22:51.000 --> 22:53.000]  Because a lot of clients
+[22:53.000 --> 22:55.000]  They will give gifts in funding day
+[22:55.000 --> 22:57.000]  And Ramadan as a one
+[22:57.000 --> 22:59.000]  This is for me
+[22:59.000 --> 23:01.000]  What kind of
+[23:01.000 --> 23:03.000]  This is the one
+[23:03.000 --> 23:05.000]  Funding day
+[23:05.000 --> 23:07.000]  And by the way Ramadan
+[23:07.000 --> 23:09.000]  No way
+[23:09.000 --> 23:11.000]  You have here
+[23:11.000 --> 23:13.000]  On this box
+[23:13.000 --> 23:15.000]  All this
+[23:15.000 --> 23:17.000]  Funding
+[23:17.000 --> 23:19.000]  But we should
+[23:19.000 --> 23:21.000]  Have something at least
+[23:21.000 --> 23:23.000]  Small pieces for funding day
+[23:23.000 --> 23:25.000]  What else
+[23:25.000 --> 23:27.000]  Not the green
+[23:27.000 --> 23:29.000]  We want to have
+[23:29.000 --> 23:31.000]  Already before
+[23:31.000 --> 23:33.000]  What they will
+[23:33.000 --> 23:35.000]  But we want
+[23:35.000 --> 23:37.000]  To give something back
+[23:37.000 --> 23:39.000]  And he will do it
+[23:39.000 --> 23:41.000]  And he will do it without asking us
+[23:41.000 --> 23:43.000]  Good thing
+[23:43.000 --> 23:45.000]  Like you do something
+[23:45.000 --> 23:47.000]  I give you
+[23:47.000 --> 23:49.000]  Colors
+[23:49.000 --> 23:51.000]  I think
+[23:51.000 --> 23:53.000]  National day
+[23:53.000 --> 23:55.000]  Only green
+[23:55.000 --> 23:57.000]  That's not
+[23:57.000 --> 23:59.000]  National day
+[23:59.000 --> 24:01.000]  Funding day
+[24:01.000 --> 24:03.000]  Not alone
+[24:03.000 --> 24:05.000]  Not alone
+[24:05.000 --> 24:07.000]  Inside maybe
+[24:07.000 --> 24:09.000]  And funding day is brown
+[24:09.000 --> 24:11.000]  We don't want funding day
+[24:11.000 --> 24:13.000]  Next year we should have
+[24:13.000 --> 24:15.000]  Because
+[24:15.000 --> 24:17.000]  We don't have
+[24:17.000 --> 24:19.000]  Even small
+[24:19.000 --> 24:21.000]  No
+[24:21.000 --> 24:23.000]  Now we can just have the same button
+[24:25.000 --> 24:27.000]  So let's get
+[24:27.000 --> 24:29.000]  Let's get
+[24:29.000 --> 24:31.000]  No let's get
+[24:31.000 --> 24:33.000]  But in the pattern of legacy
+[24:33.000 --> 24:35.000]  Yeah the Sado not bad
+[24:35.000 --> 24:37.000]  You understand better
+[24:37.000 --> 24:39.000]  No the same button of Sado
+[24:39.000 --> 24:41.000]  Because we have the box
+[24:41.000 --> 24:43.000]  But we just make it the same way
+[24:43.000 --> 24:45.000]  Same pattern of Sado in legacy box
+[24:45.000 --> 24:47.000]  I understand you mean the same button
+[24:47.000 --> 24:49.000]  But I'm saying
+[24:49.000 --> 24:51.000]  Sado
+[24:51.000 --> 24:53.000]  Sado box
+[24:53.000 --> 24:55.000]  Utilizing this in the same
+[24:55.000 --> 24:57.000]  As you applied on legacy
+[24:57.000 --> 24:59.000]  Only on the sides
+[24:59.000 --> 25:01.000]  That's it
+[25:01.000 --> 25:03.000]  That's what we want for the funding day
+[25:03.000 --> 25:05.000]  Two pieces
+[25:05.000 --> 25:07.000]  Sado box
+[25:07.000 --> 25:09.000]  Two pieces for only
+[25:09.000 --> 25:11.000]  Two more
+[25:11.000 --> 25:13.000]  Two for a small
+[25:13.000 --> 25:15.000]  Small
+[25:15.000 --> 25:17.000]  If we enlarge the logic
+[25:17.000 --> 25:19.000]  Nobody will sell it large
+[25:19.000 --> 25:21.000]  Okay forget this
+[25:21.000 --> 25:23.000]  Two for eight
+[25:23.000 --> 25:25.000]  Small
+[25:25.000 --> 25:27.000]  Two for eight
+[25:27.000 --> 25:29.000]  Small
+[25:29.000 --> 25:31.000]  Very good
+[25:31.000 --> 25:33.000]  And also you can use it for something nice
+[25:33.000 --> 25:35.000]  That's Sado box
+[25:35.000 --> 25:37.000]  You can add a lot and then you win the award
+[25:37.000 --> 25:39.000]  Yes
+[25:39.000 --> 25:41.000]  Okay
+[25:41.000 --> 25:43.000]  So
+[25:43.000 --> 25:45.000]  What you were saying to me
+[25:45.000 --> 25:47.000]  Yes
+[25:47.000 --> 25:49.000]  It's not urgent but
+[25:49.000 --> 25:51.000]  It's required
+[25:51.000 --> 25:53.000]  Our delivery one
+[25:53.000 --> 25:55.000]  We need to change it
+[25:55.000 --> 25:57.000]  Because we got complainer
+[25:57.000 --> 25:59.000]  And customer
+[25:59.000 --> 26:01.000]  Small clients
+[26:01.000 --> 26:03.000]  You tell us
+[26:03.000 --> 26:05.000]  And you bring us the same
+[26:05.000 --> 26:07.000]  On the trucks
+[26:07.000 --> 26:09.000]  On the trucks
+[26:09.000 --> 26:11.000]  Roshan
+[26:11.000 --> 26:13.000]  If you are able to send me the overview
+[26:13.000 --> 26:15.000]  The rating
+[26:15.000 --> 26:17.000]  The level of trucks
+[26:17.000 --> 26:19.000]  As we can discuss
+[26:19.000 --> 26:21.000]  With you
+[26:21.000 --> 26:23.000]  So we need to have new one
+[26:23.000 --> 26:25.000]  New model with
+[26:25.000 --> 26:27.000]  Branding
+[26:27.000 --> 26:29.000]  You should have batil
+[26:29.000 --> 26:31.000]  Batil
+[26:31.000 --> 26:33.000]  Not catering
+[26:33.000 --> 26:35.000]  Not catering
+[26:37.000 --> 26:39.000]  Half million
+[26:39.000 --> 26:41.000]  Half million
+[26:43.000 --> 26:45.000]  Oh my god
+[26:45.000 --> 26:47.000]  Yes
+[26:47.000 --> 26:49.000]  Okay what else
+[26:53.000 --> 26:55.000]  All is fine
+[26:55.000 --> 26:57.000]  Others
+[26:57.000 --> 26:59.000]  It's a rich
+[26:59.000 --> 27:01.000]  Stick
+[27:01.000 --> 27:03.000]  Stick is all
+[27:03.000 --> 27:05.000]  Yeah later we will talk
+[27:07.000 --> 27:09.000]  We did fine without
+[27:09.000 --> 27:11.000]  Without warehouse
+[27:11.000 --> 27:13.000]  We did fine without warehouse
+[27:17.000 --> 27:19.000]  We don't have access
+[27:19.000 --> 27:21.000]  It was good
+[27:21.000 --> 27:23.000]  Next year do the same
+[27:23.000 --> 27:25.000]  I don't know what next year
+[27:25.000 --> 27:27.000]  You will not be alive
+[27:27.000 --> 27:29.000]  Maybe I will be
+[27:29.000 --> 27:31.000]  Yeah
+[27:31.000 --> 27:33.000]  So you have the information
+[27:33.000 --> 27:35.000]  Makra
+[27:35.000 --> 27:37.000]  Makra
+[27:39.000 --> 27:43.000]  We need to
+[27:43.000 --> 27:45.000]  Renfade the production area
+[27:45.000 --> 27:47.000]  The tiles we can make it
+[27:47.000 --> 27:49.000]  It's crazy
+[27:49.000 --> 27:51.000]  Okay we will not do the same
+[27:51.000 --> 27:53.000]  We can do it hourly and not bring companies
+[27:53.000 --> 27:55.000]  No no we don't
+[27:55.000 --> 27:57.000]  Just paint it
+[27:59.000 --> 28:01.000]  For the what customer
+[28:01.000 --> 28:03.000]  What customer doesn't see
+[28:03.000 --> 28:05.000]  For the
+[28:05.000 --> 28:07.000]  But some clients
+[28:07.000 --> 28:09.000]  Some customers
+[28:09.000 --> 28:11.000]  Who are working on
+[28:11.000 --> 28:13.000]  They will enter to the production
+[28:13.000 --> 28:15.000]  Like
+[28:15.000 --> 28:17.000]  ACPA
+[28:17.000 --> 28:19.000]  It will increase business
+[28:19.000 --> 28:21.000]  But we are trying
+[28:21.000 --> 28:23.000]  To work on
+[28:23.000 --> 28:25.000]  They will
+[28:25.000 --> 28:27.000]  Stay inside
+[28:27.000 --> 28:29.000]  And
+[28:29.000 --> 28:31.000]  Noo and others they will send us
+[28:31.000 --> 28:33.000]  Small people
+[28:33.000 --> 28:35.000]  To enter
+[28:35.000 --> 28:37.000]  They didn't take our stuff
+[28:37.000 --> 28:39.000]  No
+[28:39.000 --> 28:41.000]  Give them
+[28:41.000 --> 28:43.000]  My stuff
+[28:43.000 --> 28:45.000]  No
+[28:45.000 --> 28:47.000]  No
+[28:47.000 --> 28:49.000]  No
+[28:49.000 --> 28:51.000]  No
+[28:51.000 --> 28:53.000]  Okay
+[28:53.000 --> 28:55.000]  And you guys
+[28:55.000 --> 28:57.000]  No
+[28:57.000 --> 28:59.000]  No
+[28:59.000 --> 29:01.000]  No issues there
+[29:01.000 --> 29:03.000]  EECOM and the delivery aggregators
+[29:03.000 --> 29:05.000]  Were bad
+[29:05.000 --> 29:07.000]  We have not prepared
+[29:11.000 --> 29:13.000]  This is like
+[29:13.000 --> 29:15.000]  Please
+[29:15.000 --> 29:17.000]  For those prices we
+[29:17.000 --> 29:19.000]  Get the shit
+[29:19.000 --> 29:21.000]  Because the prices
+[29:21.000 --> 29:23.000]  Online
+[29:23.000 --> 29:25.000]  Less than the prices
+[29:25.000 --> 29:27.000]  What we are selling
+[29:27.000 --> 29:29.000]  But even
+[29:29.000 --> 29:31.000]  If we choose some boxes
+[29:31.000 --> 29:33.000]  But they had the file
+[29:33.000 --> 29:35.000]  Because for example
+[29:35.000 --> 29:37.000]  Huawei and others
+[29:37.000 --> 29:39.000]  Mohamed Rahad
+[29:39.000 --> 29:41.000]  You need to
+[29:41.000 --> 29:43.000]  Send me BG for us
+[29:43.000 --> 29:45.000]  The price is not the same as the price
+[29:45.000 --> 29:47.000]  And you guys
+[29:53.000 --> 29:55.000]  Let's open this one
+[29:55.000 --> 29:57.000]  I will take anything from you
+[29:57.000 --> 29:59.000]  Mohamed
+[30:03.000 --> 30:05.000]  I have
+[30:05.000 --> 30:07.000]  Thank you
+[30:07.000 --> 30:09.000]  Thank you
+[30:09.000 --> 30:11.000]  Thank you
+[30:11.000 --> 30:13.000]  Before you
+[30:13.000 --> 30:15.000]  You can start
+[30:15.000 --> 30:17.000]  Yes
+[30:17.000 --> 30:19.000]  Yes
+[30:19.000 --> 30:21.000]  Yes
+[30:21.000 --> 30:23.000]  Yes
+[30:23.000 --> 30:25.000]  Yes
+[30:25.000 --> 30:27.000]  Yes
+[30:27.000 --> 30:29.000]  Yes
+[30:29.000 --> 30:31.000]  Yes
+[30:31.000 --> 30:33.000]  Yes
+[30:35.000 --> 30:37.000]  You have the ticket or not yet
+[30:37.000 --> 30:39.000]  Yes
+[30:39.000 --> 30:41.000]  The first one
+[30:41.000 --> 30:43.000]  The first one
+[30:43.000 --> 30:45.000]  We push the first one
+[30:45.000 --> 30:47.000]  For his ticket
+[30:47.000 --> 30:49.000]  A day stay
+[30:49.000 --> 30:51.000]  How there is no ticket
+[30:51.000 --> 30:53.000]  At 2 o'clock in the morning
+[30:53.000 --> 30:55.000]  Because
+[30:55.000 --> 30:57.000]  Now it's season for Omra
+[30:57.000 --> 30:59.000]  Everyone is going
+[30:59.000 --> 31:01.000]  Sure
+[31:01.000 --> 31:03.000]  For today
+[31:03.000 --> 31:05.000]  It's sold out
+[31:05.000 --> 31:07.000]  The direct is
+[31:07.000 --> 31:09.000]  Too expensive
+[31:09.000 --> 31:11.000]  I'm a big
+[31:11.000 --> 31:13.000]  So
+[31:13.000 --> 31:15.000]  Thanks
+[31:15.000 --> 31:17.000]  Thanks
+[31:17.000 --> 31:19.000]  Thank you
+[31:19.000 --> 31:21.000]  Thank you
+[31:21.000 --> 31:23.000]  Thank you
+[31:23.000 --> 31:25.000]  Thank you
+[31:25.000 --> 31:27.000]  Actually
+[31:27.000 --> 31:29.000]  It's not different
+[31:29.000 --> 31:31.000]  But
+[31:31.000 --> 31:33.000]  It should be charged to the
+[31:33.000 --> 31:35.000]  Iqam
+[31:35.000 --> 31:37.000]  Iqam
+[31:37.000 --> 31:39.000]  Iqam
+[31:39.000 --> 31:41.000]  Iqam
+[31:41.000 --> 31:43.000]  Iqam
+[31:43.000 --> 31:45.000]  Iqam
+[31:45.000 --> 31:47.000]  For 1000
+[31:47.000 --> 31:49.000]  For 1000
+[31:49.000 --> 31:51.000]  1000
+[31:51.000 --> 31:53.000]  So extra hotel
+[31:53.000 --> 31:55.000]  700
+[31:55.000 --> 31:57.000]  1000
+[31:57.000 --> 31:59.000]  They will sleep here
+[31:59.000 --> 32:01.000]  But 1000
+[32:01.000 --> 32:03.000]  For the flight
+[32:03.000 --> 32:05.000]  Yes
+[32:05.000 --> 32:07.000]  Too much
+[32:07.000 --> 32:09.000]  For him
+[32:09.000 --> 32:11.000]  100
+[32:11.000 --> 32:13.000]  We are
+[32:13.000 --> 32:15.000]  Buying bakery
+[32:15.000 --> 32:17.000]  Going down
+[32:17.000 --> 32:19.000]  It's a profit
+[32:19.000 --> 32:21.000]  Thank you
+[32:21.000 --> 32:23.000]  Good
+[32:23.000 --> 32:25.000]  We are paying rent
+[32:25.000 --> 32:27.000]  So you go to
+[32:27.000 --> 32:29.000]  The summer
+[32:29.000 --> 32:31.000]  You fly through
+[32:31.000 --> 32:33.000]  What to do
+[32:33.000 --> 32:35.000]  When you are traveling
+[32:35.000 --> 32:37.000]  You can eat also
+[32:37.000 --> 32:39.000]  Traveling
+[32:39.000 --> 32:41.000]  At the same time
+[32:41.000 --> 32:43.000]  Traveling
+[32:43.000 --> 32:45.000]  Tomorrow we will be
+[32:45.000 --> 32:47.000]  To eat again
+[32:47.000 --> 32:49.000]  Thank you
+[32:49.000 --> 32:51.000]  Thank you
